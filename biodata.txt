@@ -1,0 +1,6 @@
+Name:Asif Hoda
+Age:26
+Contact:7000678104
+salary:60k
+Address:Raja Bari K.hat
+Doj:22/03/2022
